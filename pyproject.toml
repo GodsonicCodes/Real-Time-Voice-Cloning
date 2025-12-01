@@ -1,7 +1,7 @@
 [project]
 name = "real-time-voice-cloning"
 version = "0.0.0"
-requires-python = ">=3.9,<3.10"
+requires-python = ">=3.9,<3.13"
 
 # Dependencies will be populated by `uv add -r requirements.txt`.
 dependencies = [
