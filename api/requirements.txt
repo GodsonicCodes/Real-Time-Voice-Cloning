@@ -1,7 +1,8 @@
 # Modern Voice Cloning API Dependencies
 
 # Core TTS Engine - XTTS v2 (Modern, Fast Voice Cloning)
-TTS>=0.21.0
+# Note: Requires Python 3.9-3.11 (NOT 3.12+)
+TTS>=0.22.0
 
 # API Framework
 fastapi>=0.109.0
